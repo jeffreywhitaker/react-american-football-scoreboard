@@ -26,6 +26,10 @@ code {
     monospace;
 }
 
+.topRow {
+  padding-bottom: 30px;
+}
+
 button {
   display: inline-block;
   border: none;
